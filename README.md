@@ -11,7 +11,13 @@
 - 😄 Me considero una persona amigable y colaborativa.
 
 ## Habilidades
-
+<div>
+  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+ <img width ='65px' src ='ts y js.jpg'>
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+ <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
+ <img width ='65px' src ='git.png'>
+</div>
 ### Lenguajes de Programación
 - JavaScript
 - Java
@@ -28,7 +34,6 @@
 - Docker
 - Metodologías Ágiles (Scrum)
 
-![My github stats]()
 <br>
 ![visitor badge](https://github-readme-stats.vercel.app/api/top-langs?username=KarenCortesH&show_icons=true&locale=en&layout=compact)
 
