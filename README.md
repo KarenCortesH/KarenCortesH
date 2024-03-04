@@ -30,7 +30,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?&username=cristiandi&theme=dark&hide=contribs&show_icons=true])
 <br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cristiandi.Cristiandi)
+![visitor badge](https://github-readme-stats.vercel.app/api/top-langs?username=KarenCortesH&show_icons=true&locale=en&layout=compact)
 
 ## Contacto
 
