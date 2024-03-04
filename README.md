@@ -28,7 +28,7 @@
 - Docker
 - Metodologías Ágiles (Scrum)
 
-![My github stats](https://github-readme-stats.vercel.app/api?&username=cristiandi&theme=dark&hide=contribs&show_icons=true])
+![My github stats]()
 <br>
 ![visitor badge](https://github-readme-stats.vercel.app/api/top-langs?username=KarenCortesH&show_icons=true&locale=en&layout=compact)
 
