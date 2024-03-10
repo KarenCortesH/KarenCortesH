@@ -32,7 +32,8 @@
 
 <br>
 ![visitor badge](https://github-readme-stats.vercel.app/api/top-langs?username=KarenCortesH&show_icons=true&locale=en&layout=compact)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KarenCortesH)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KarenCortesH.KarenCortesH)
+
 ## Contacto
 
 ¡Si quieres conectarte conmigo o colaborar en algún proyecto, no dudes en ponerte en contacto!
