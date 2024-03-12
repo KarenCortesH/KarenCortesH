@@ -18,6 +18,13 @@
  <img width ='65px' src ='git.png'>
 </div>
 
+<!-- STREAKS -->
+ <tr>
+    <p align="left">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarenCortesH&layout=compact&theme=city-lights&background=36363b00&hide_border=true&fire=yellow&border=36363b00"
+	alt="lassiecoder" width="70%" />
+ </tr>
+
 ### Tecnologías
 - HTML/CSS
 - React.js
@@ -36,10 +43,7 @@
  <img style="align-item: center" 
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenCortesH&custom_title=Languages%20I%20have%20used&layout=compact&theme=radical&hide_border=true&hide_title=true" />
  </p> 
-
- <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=KarenCortesH&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" />
- </p>
+ 
   <tr>
 ## Contacto
 
