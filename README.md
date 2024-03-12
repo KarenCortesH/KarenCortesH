@@ -32,6 +32,15 @@
 
 <br>
 
+ <p align="center"> 
+ <img style="align-item: center" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenCortesH&custom_title=Languages%20I%20have%20used&layout=compact&theme=radical&hide_border=true&hide_title=true" />
+ </p> 
+
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=KarenCortesH&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" />
+ </p>
+  <tr>
 ## Contacto
 
 ¡Si quieres conectarte conmigo o colaborar en algún proyecto, no dudes en ponerte en contacto!
